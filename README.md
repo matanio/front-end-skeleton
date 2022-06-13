@@ -5,7 +5,7 @@ This is one of my pre-made projects for my quick vue web-app ideas. The template
 **TLDR**: I have millions of ideas for quick projects - this speeds up the proccess. 
 
 
-### Installation
+## Installation
  
 Run the following commands:
 
@@ -15,5 +15,5 @@ npm install
 npm run dev
 ```
 
-### Developer Notes
+## Developer Notes
 This project is a work in progress. The goal is to have all the major bare-bone functionality required for a web-app. 
