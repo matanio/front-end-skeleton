@@ -1,7 +1,19 @@
-# Vue 3 + Vite
+# Front-end Web Skeleton
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is one of my pre-made projects for my quick vue web-app ideas. The template includes Tailwind CSS and Vue 3 + Vite, and hence includes the scripts from Vite. It also incldues some customisability. 
 
-## Recommended IDE Setup
+**TLDR**: I have millions of ideas for quick projects - this speeds up the proccess. 
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+
+### Installation
+ 
+Run the following commands:
+
+```
+git clone https://github.com/matanio/front-end-skeleton.git
+npm install
+npm run dev
+```
+
+### Developer Notes
+This project is a work in progress. The goal is to have all the major bare-bone functionality required for a web-app. 
